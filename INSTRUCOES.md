@@ -55,10 +55,9 @@ CREATE TABLE BUSCAS (
 Após a criação da tabela, importei o arquivo *out.csv* enviado para dentro da tabela *BUSCAS*.
 
 
-Através do *Power BI* criei alguns Dashboards com algumas análises que podem ser conferidas através do link abaixo.
+Através do *Power BI* criei uma conexão com a base no SQL Server e elaborei alguns Dashboards com algumas análises que podem ser conferidas através do link abaixo.
 
 
 [DashBoard Power BI](http://bit.ly/MaxMi-Analise)
 
-
-As análises estão no arquivo *ANALISES.md*
+Ou no arquivo [ANALISE.md](ANALISE.md)
