@@ -60,4 +60,4 @@ Através do *Power BI* criei uma conexão com a base no SQL Server e elaborei al
 
 [Interactive Viz](http://bit.ly/MaxMi-Analise)
 
-Ou no arquivo [ANALISE.md](ANALISE.md)
+Ou no arquivo [ANALISES.md](ANALISES.md)
