@@ -1,4 +1,13 @@
-```sql
+#Instruções
+
+
+
+Primeiramente criei uma base de dados no SQL Server e criei uma tabela conforme modelo de estrutura no arquivo *readme.html* enviado.
+
+Segue código utilizado para criação do mesmo:
+
+
+```SQL
 CREATE DATABASE MAXMI
 GO
 
@@ -43,3 +52,14 @@ CREATE TABLE BUSCAS (
 	grupo_aeroporto_volta VARCHAR(3)
 	)
 ```
+
+Após a criação da tabela, importei o arquivo *out.csv* enviado para dentro da tabela *BUSCAS*.
+
+
+Através do *Power BI* criei alguns Dashboards com algumas análises que podem ser conferidas através do link abaixo.
+
+
+[DashBoard Power BI](http://bit.ly/MaxMi-Analise)
+
+
+As análises estão no arquivo *ANALISES.md*
